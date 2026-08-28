@@ -14,41 +14,25 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
 
 ## Table of Contents
-- [SaaS/Hosted Platforms](#saas-products)
+- [SaaS Platforms](#saas-platforms)
 - [Open-Source GitHub Projects](#open-source-github-projects)
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
 
-## SaaS/Hosted Platforms
-- **[NatureMetrics](https://www.naturemetrics.com/)**  
-  eDNA and molecular biodiversity monitoring platform that turns environmental samples into species and ecosystem insights for corporate and conservation use.
+## SaaS Platforms
 
-- **[NatureAlpha](https://www.naturealpha.ai/)**  
-  Nature and biodiversity analytics platform aimed at investors and corporates assessing nature-related risks and opportunities.
-
-- **[Map of Life](https://mol.org/)**  
-  Global biodiversity mapping and indicator initiative (Yale) providing species distributions, habitat metrics, and national biodiversity information system components.
-
-- **[Esri ArcGIS Living Atlas](https://livingatlas.arcgis.com/)**  
-  Curated collection of global geographic and environmental layers, including biodiversity and habitat datasets, within the ArcGIS ecosystem.
-
-- **[Bloom Labs](https://www.bloomlabs.com/)**  
-  Nature and biodiversity technology offerings focused on measurement and insight for organizations engaging with nature.
-
-- **[Planetly Nature](https://www.planetly.com/)**  
-  Nature and sustainability tooling (within broader climate/nature product suites) supporting corporate nature accounting and reporting.
-
-- **[GIST Impact](https://gistimpact.com/)**  
-  Impact and nature-related measurement platform used for assessing environmental and biodiversity footprints.
-
-- **[Impact Observatory](https://www.impactobservatory.com/)**  
-  Geospatial and AI-driven environmental intelligence, including land-cover and nature-relevant layers for monitoring change.
-
-- **[Climate Engine](https://www.climateengine.org/)**  
-  Cloud geospatial analytics platform providing on-demand processing of climate and environmental datasets relevant to habitat and nature monitoring.
-
-- **[OpenForests](https://www.openforests.com/)**  
-  Forest and nature project monitoring and management tooling for conservation and nature-based solutions.
+| Platform | Description | Starting Pricing | Free Tier / Free Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[NatureMetrics](https://www.naturemetrics.com/)** | eDNA and molecular biodiversity monitoring platform converting field samples into species and ecological condition metrics for conservation and corporate reporting. | **£335** per standard sample kit (includes sampling kit, sequencing, and lab reporting); Intelligence Platform enterprise tiers starting at **£5,000/year**. | **14-day free trial** for the Intelligence Platform with sample biodiversity survey datasets, interactive mapping, and reporting tools. |
+| **[NatureAlpha](https://www.naturealpha.ai/)** | AI-driven nature and biodiversity risk analytics platform delivering TNFD-aligned footprinting, materiality metrics, and supply-chain exposure insights for investors. | **£12,000/year** (or **£1,000/month**) for enterprise analytics; Geoverse Explorer entry tier available at **£0**. | **Free forever plan** (Geoverse Explorer) with basic biodiversity risk screening for up to 10 company lookups; **14-day free trial** for Geoverse 2.0 institutional platform. |
+| **[Map of Life](https://mol.org/)** | Global biodiversity spatial platform (Yale) offering species distributions, range maps, habitat metrics, and national indicator decision-support frameworks. | **$500/month** ($6,000/year) for commercial API & custom spatial modeling; **$0** for non-commercial academic research. | **Free forever plan** for public web & mobile app (unlimited global species range lookups, regional checklists up to 50 reports/day, and public API limited to 100 queries/day). |
+| **[Esri ArcGIS Living Atlas](https://livingatlas.arcgis.com/)** | Curated cloud geospatial repository and spatial analysis suite hosting global biodiversity, ecosystems, protected areas, and habitat change datasets. | **$100/year** (ArcGIS for Personal Use) or **$550/year** (ArcGIS Online Creator user license). | **21-day free trial** of ArcGIS Online (includes 1 Creator license, 400 service credits, 2 GB hosted feature storage, and full access to Living Atlas subscriber layers). |
+| **[Bloom Labs](https://bloomlabs.earth/)** | Market intelligence and data platform tracking voluntary biodiversity credit markets, nature credit issuances, pricing indices, and project registries. | **€49/month** (or **€490/year**) for individual researcher tier; **€199/month** for institutional analyst tier. | **Free forever plan** includes bi-weekly market intelligence briefings, public biodiversity credit scheme directory, and summary transaction tracker. |
+| **[Planetly Nature (OneTrust)](https://www.onetrust.com/solutions/esg-sustainability/)** | Corporate sustainability and biodiversity footprint accounting platform enabling nature-related disclosures (TNFD, CSRD, GRI) and ESG compliance. | **$10,000/year** starting subscription for the core ESG & Nature management module. | **14-day guided proof-of-concept trial** sandbox limited to 5 organizational entity profiles and up to 50 nature/emissions data streams. |
+| **[GIST Impact](https://gistimpact.com/)** | Algorithmic biodiversity and environmental impact valuation engine assessing spatial nature footprints and corporate ecosystem dependencies across global supply chains. | **$15,000/year** starting subscription for SME Nature & Biodiversity Footprint module. | **14-day interactive demo trial** sandbox limited to portfolio screening of up to 5 corporate entities or 1 supply-chain facility. |
+| **[Impact Observatory](https://www.impactobservatory.com/)** | AI-driven geospatial environmental intelligence generating high-resolution global land cover maps and continuous habitat/deforestation monitoring. | **$2.00/km²** (10m on-demand land cover) or **$7.50/km²** (3m resolution, minimum order **$500**); Enterprise monitoring from **$12,000/year**. | **Free forever plan** for global annual 10m land cover time-series maps (CC BY 4.0 via Living Atlas/Planetary Computer); **14-day free trial** of IO Monitor for 1 AOI up to 100 km². |
+| **[Climate Engine](https://www.climateengine.org/)** | Cloud geospatial computing platform (DRI/NOAA/Google) delivering on-demand environmental, climatic, and vegetation indices for habitat monitoring. | **$250/month** for enterprise Google Earth Engine Connector + dedicated API gateway; **$0** for standard research accounts. | **Free forever plan** with standard web access and API limits of **200 requests/hour**, **500 requests/day**, and **3,000 requests/month** across global datasets. |
+| **[OpenForests (explorer.land)](https://www.openforests.com/)** | High-resolution forest and conservation project mapping, storytelling, and field impact monitoring SaaS platform. | **€49/month** per project (Starter tier, or **€34/month** billed annually); Professional tier at **€99/month**. | **Free forever plan** includes 1 mapped project, 1 user, embeddable interactive map, geolocated news posts, and funding directory access; **14-day free trial** for Starter/Pro tiers. |
 
 ## Open-Source GitHub Projects
 - **[Biodiversity Information Management System (BIMS)](https://github.com/kartoza/bims)**  
