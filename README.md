@@ -1,49 +1,109 @@
 # Awesome-Biodiversity-Management
 
-In @README.md For SaaS products, first convert it to tabular form. Then include the pricing as a column. Mention the free tier limit as another column. The Pricing column has to be very specific, 'Usage-based' or 'Custom' won't do, your have to search for specific starting tier prices. The free tier limits column has to be very specific, 'None' or 'N/A' won't do. you have to mention the free for ever plan's limit or in case it has free trial only, specify no of days and limits of that free trial plan. commit and push once done.
+## Top Biodiversity Management Platforms Ecosystem
+**Curated List of SaaS Products & Open-Source GitHub Projects**
+*Focused on Species Monitoring, eDNA, Habitat Mapping, Nature Metrics, Conservation Decision Support & Biodiversity Data*
+**Last updated: August 2026**
 
-In @README.md For each of the SaaS products add a column to indicate how big that company is ie in terms of revenue or valuation and then sort by that column (descending). commit and push once done.
+This repository tracks notable **SaaS platforms** and **open-source projects** for **Biodiversity Management**. These systems help organizations measure, map, monitor, and report on species, habitats, and ecosystem condition — supporting conservation, nature-related risk (TNFD), and nature-positive strategies.
 
-In @README.md on top of the SaaS table write a line for estimated marketsize of the sector and about whether the sector is highly/moderately fragmented or concentrated(ie winner take all types). commit and push once done.
+**Examples** include NatureMetrics, NatureAlpha, Map of Life, Esri ArcGIS Living Atlas, Bloom Labs, Planetly Nature, GIST Impact, Impact Observatory, Climate Engine, and OpenForests (the category leaders).
 
+**Open-source emphasis**: Biodiversity data and tooling are unusually open. **GBIF**, **Symbiota**, **BIMS**, **GeoNature**, **iNaturalist**, **Map of Life** repositories, and camera-trap/AI projects (e.g. MegaDetector) provide strong self-hosted and community foundations. This section is heavily expanded with these tools.
 
+Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
 
-In @README.md Please add more opensource options. In @README.md For each of the Open-Source repos add a badge(with style=social and color=white) to indicate how many stars the repo has and then sort by that star counts (descending). Note the star badge beside each opensource name should link to stargazers page of that particular repo.  commit and push once done.
+## Table of Contents
+- [SaaS/Hosted Platforms](#saas-products)
+- [Open-Source GitHub Projects](#open-source-github-projects)
+- [How to Contribute](#how-to-contribute)
+- [Disclaimer](#disclaimer)
 
+## SaaS/Hosted Platforms
+- **[NatureMetrics](https://www.naturemetrics.com/)**  
+  eDNA and molecular biodiversity monitoring platform that turns environmental samples into species and ecosystem insights for corporate and conservation use.
 
+- **[NatureAlpha](https://www.naturealpha.ai/)**  
+  Nature and biodiversity analytics platform aimed at investors and corporates assessing nature-related risks and opportunities.
 
-In @README.md Make the README more SEO-friendly.  commit and push once done.
+- **[Map of Life](https://mol.org/)**  
+  Global biodiversity mapping and indicator initiative (Yale) providing species distributions, habitat metrics, and national biodiversity information system components.
 
+- **[Esri ArcGIS Living Atlas](https://livingatlas.arcgis.com/)**  
+  Curated collection of global geographic and environmental layers, including biodiversity and habitat datasets, within the ArcGIS ecosystem.
 
+- **[Bloom Labs](https://www.bloomlabs.com/)**  
+  Nature and biodiversity technology offerings focused on measurement and insight for organizations engaging with nature.
 
-In @README.md Decorate the README with a banner(generate new, dont search online, generate a svg banner locally and link it with proper path. sometimes if svg is under root it fails. so in such case place it under an assets folder, also the svg should have some dynamic aspect). commit and push once done.
+- **[Planetly Nature](https://www.planetly.com/)**  
+  Nature and sustainability tooling (within broader climate/nature product suites) supporting corporate nature accounting and reporting.
 
-In @README.md Decorate the README with emojis.  commit and push once done.
+- **[GIST Impact](https://gistimpact.com/)**  
+  Impact and nature-related measurement platform used for assessing environmental and biodiversity footprints.
 
+- **[Impact Observatory](https://www.impactobservatory.com/)**  
+  Geospatial and AI-driven environmental intelligence, including land-cover and nature-relevant layers for monitoring change.
 
+- **[Climate Engine](https://www.climateengine.org/)**  
+  Cloud geospatial analytics platform providing on-demand processing of climate and environmental datasets relevant to habitat and nature monitoring.
 
-In @README.md Decorate the README with badges . Add the following badges to left of your list of badges `<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>`. commit and push once done.
+- **[OpenForests](https://www.openforests.com/)**  
+  Forest and nature project monitoring and management tooling for conservation and nature-based solutions.
 
-In @README.md And add the following badge to right of your list of badges `<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>`.  commit and push once done.
+## Open-Source GitHub Projects
+- **[Biodiversity Information Management System (BIMS)](https://github.com/kartoza/bims)**  
+  Open-source platform for managing, analysing, visualising, and sharing biodiversity data from field collection through decision support — used in multiple national and park portals.
 
+- **[Symbiota](https://symbiota.org/)**  
+  Open-source biodiversity data management system powering specimen and occurrence portals, checklists, maps, and publication to GBIF/iDigBio.
 
+- **[GeoNature](https://github.com/PnX-SI/GeoNature)**  
+  Open-source suite for managing biodiversity data in protected areas and naturalist networks (observations, protocols, exports).
 
-In @README.md towards the bottom(probably last but bottom) section you have to add the follwing text but replacing `current-folder-name` with name of current folder. This is the text:
+- **[GBIF tools and IPT](https://www.gbif.org/)**  
+  Global Biodiversity Information Facility infrastructure and Integrated Publishing Toolkit for sharing standardized occurrence data worldwide.
 
-`
+- **[iNaturalist](https://github.com/inaturalist)**  
+  Open citizen-science platform and apps for recording species observations; data feeds research and conservation (open components and APIs).
 
-## 📈 Star History
+- **[Map of Life open repositories](https://github.com/MapofLife)**  
+  Code and data processing related to species distributions, Half-Earth mapping, indicators, and national biodiversity information systems.
 
+- **[Microsoft Biodiversity / MegaDetector](https://github.com/microsoft/CameraTraps)**  
+  Open AI models and tools for camera-trap detection, species classification, bioacoustics, and field biodiversity monitoring.
 
+- **[Pytorch-Wildlife and conservation AI model zoos](https://github.com/microsoft/Pytorch-Wildlife)**  
+  Open deep-learning frameworks and models for wildlife and biodiversity applications.
 
-[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/current-folder-name&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/current-folder-name&type=date&legend=top-left)
+- **[Open geospatial biodiversity stacks](https://github.com/)**  
+  QGIS plugins, PostGIS schemas, and Earth Engine scripts used for habitat mapping and species distribution modeling.
 
-`
+- **[R and Python biodiversity analysis packages](https://github.com/)**  
+  Widely used open libraries for species distribution models, diversity indices, eDNA pipelines, and ecological statistics.
 
+### Additional Strong Open-Source Options
+- Publishing occurrence data via GBIF IPT and consuming global layers in open GIS tools.
+- Running BIMS or Symbiota as an institutional biodiversity data portal.
+- Combining camera-trap AI (MegaDetector) with open storage and dashboards for monitoring programs.
+- Using GeoNature for structured field protocols in reserves and parks.
+- Building TNFD-aligned indicators from open land-cover and species datasets plus local surveys.
+- Contributing observations and validations through iNaturalist and similar networks.
 
+**Frameworks for building custom systems**: Collect and publish data with **GBIF/Symbiota/BIMS/GeoNature**, process camera-trap and acoustic data with **MegaDetector** and open audio tools, analyze in **QGIS/PostGIS/R/Python**, and report indicators for conservation or corporate nature disclosure. Commercial platforms (NatureMetrics, Map of Life partnerships, Impact Observatory, NatureAlpha, etc.) still lead in turnkey eDNA lab services, polished corporate dashboards, and integrated nature-risk products. Open stacks maximize transparency and reuse of public biodiversity data.
 
-In @README.md Replace all instances of `https://github.com/sindresorhus/awesome` in readme with `https://github.com/ishandutta2007/Awesome-Awesome-Awesome` if found any.  commit and push once done.
+## How to Contribute
+1. Fork the repo.
+2. Add/edit entries in `README.md` (follow existing format).
+3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
+4. Submit PR with a short explanation.
 
+Star the repo if you find it useful!
 
+## Disclaimer
+- This is a **community-curated** list — not exhaustive and not an endorsement.
+- Biodiversity data can be sensitive (endangered species locations, indigenous knowledge). Follow data-use agreements, GBIF and national access rules, and ethical guidelines. Models and eDNA results have uncertainty — they support but do not replace field expertise and local knowledge. Corporate nature claims should be backed by robust methods and assurance.
+- This list is not scientific or regulatory advice.
 
-Find 3 suitable topics for this repo. then replacing {topic_1},{topic_2},{topic_3} with the three topics run: run_command(gh repo edit ishandutta2007/$repo_name --add-topic "{topic_1},{topic_2},{topic_3}")
+---
+**Made for conservation scientists, nature-tech builders, and sustainability teams measuring life on Earth.**
+Let's keep biodiversity data open, interoperable, and useful for protection and restoration.
